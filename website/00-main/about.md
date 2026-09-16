@@ -27,23 +27,21 @@ permalink: /about/
 
 <br/>
 
-Не то, чтобы это были какие-то супер технологии, скорее наоборот. Но люди, думают, что если это продукт от Oracle - значит это что-то очень хорошее и качественное. У Oracle удачно получилась их база данных в том, числе из-за встроенного в него языка PL/SQL. 
+Не то, чтобы это были какие-то супер технологии, скорее наоборот. Но люди, думают, что если это продукт от Oracle - значит это что-то очень хорошее и качественное. У Oracle удачно получилась их база данных в том, числе из-за встроенного в него языка PL/SQL.
 
 Впрочем создать интерфейс для приложения, который бы передавал бы данные в хранимые процедуры и получал бы из них результат, кажется вполне неплохим решением, особенно когда вся логика уже написана на уровне базы данных.
 
 Если кому-то интересно, то это фреймворк от Oracle (называется Oracle ADF), для создания приложений, работающих с базой данных Oracle и сервером приложений Oracle Weblogic. Язык программирования бизнес логики в основном java, правда часть логики может быть написана на PL/SQL, JavaScript, Groovy.
 
-Пример приложений, в том числе и похожий на этот, можно скачать на <a href="http://bitbucket.com/oracle-adf/" rel="nofollow">bitbucket</a>.
+Пример приложений, в том числе и похожий на этот, можно скачать на <a href="https://bitbucket.com/oracle-adf/" rel="nofollow">bitbucket</a>.
 
 Помимо Oracle ADF, мы стали активно использовать другую технологию от Oracle - Oracle Jet. В связке в Oracle ADF, можно часть логики писать на JavaScript и по сути получать и отправлять данные в базу, вызывая хранимые функции посредством JS. (Совсем не так, но не думаю, что кого-то может заинтересовать)
-
 
 По сути:
 
 Знания PL/SQL у меня в текущем проекте не особо востребованы. В основном приходится читать SQL запросы, подставлять в них данные и разбираться, почему так а не иначе. Главный по объектам бызы у нас 1 робо-человек, который лучше остальных разбирается в вопросе и языке программирования PL/SQL.
 
 В моих планах прокачиваться по PL/SQL сейчас нет. Мои интересы -> React 16 -> Angular 5 -> Spring 5. Но если будет что полезное, обязательно добавлю.
-
 
 <br/>
 
@@ -66,13 +64,13 @@ permalink: /about/
 
 Если кому будет интересно, я распишу более подробно как развернуть копию проекта у себя, а также как легко вносить изменения из гитхаб а также как удобнее работать с проектом локально. При необходимости, могу подготовить docker контейнер, который позволит парой команд развернуть все, что нужно у себя. Для пользователей Windows, для этого, скорее всего, понадобится виртуальная машина.
 
-___
+---
 
 Способы работы с git:
 
 <ul>
-    <li><a href="http://www.youtube.com/watch?v=4TrOCv5Kukk">Webcast • Get Started with GitHub Pages • Featuring Dani Traphagen</a></li>
-    <li><a href="http://www.youtube.com/watch?v=ifAEho6BmH0">Webcast • Sharing and Collaborating on Projects with GitHub</a></li>
-    <li><a href="http://www.youtube.com/watch?v=lbLdbvIMHvw">Webcast • Getting Started with Code Collaboration (December 2014)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=4TrOCv5Kukk">Webcast • Get Started with GitHub Pages • Featuring Dani Traphagen</a></li>
+    <li><a href="https://www.youtube.com/watch?v=ifAEho6BmH0">Webcast • Sharing and Collaborating on Projects with GitHub</a></li>
+    <li><a href="https://www.youtube.com/watch?v=lbLdbvIMHvw">Webcast • Getting Started with Code Collaboration (December 2014)</a></li>
 
 </ul>

@@ -32,7 +32,7 @@ $ docker-compose up
 # systemctl status plsql.ru.service
 ```
 
-http://localhost:4006
+https://localhost:4006
 
 <br/>
 

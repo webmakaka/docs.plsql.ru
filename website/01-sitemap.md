@@ -199,5 +199,5 @@ permalink: /sitemap/
 <br/><br/>
 
 <div align="right">
-	Обратная связь:  <br/><img src="http://img.fotografii.org/a3333333mail.gif" alt="Marley" border="0" />
+	Обратная связь:  <br/><img src="/img/a3333333mail.gif" alt="Marley" border="0" />
 </div>

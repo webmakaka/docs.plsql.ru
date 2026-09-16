@@ -10,7 +10,7 @@ permalink: /prepare-to-development/sqlplus/
 
 <br/>
 
-Здесь мы с помощью программы <a href="http://putty.org">putty</a> подключаемся к серверу баз данных Oracle и запускаем утилиту sqlplus.
+Здесь мы с помощью программы <a href="https://putty.org">putty</a> подключаемся к серверу баз данных Oracle и запускаем утилиту sqlplus.
 
 <br/>
 Для выполнения примеров, в начале изучения PL/SQL, этой утилиты будет вполне достаточно.

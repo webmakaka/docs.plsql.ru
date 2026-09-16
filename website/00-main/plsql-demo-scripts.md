@@ -6,7 +6,6 @@ keywords: Коллекция примеров PL/SQL кода
 permalink: /plsql-demo-scripts/
 ---
 
-
 # Коллекция примеров PL/SQL кода
 
 <br/>
@@ -17,9 +16,8 @@ permalink: /plsql-demo-scripts/
 
 https://bitbucket.org/plsql/plsql-demo-scripts
 
-
 <br/>
 
 Всевозможные схемы, такие как SCOTT/TIGER, HR/HR и др. можно взят здесь:
 
-http://oracle-dba.ru/scripts/oracle-dba-scripts/
+https://oracle-dba.ru/scripts/oracle-dba-scripts/

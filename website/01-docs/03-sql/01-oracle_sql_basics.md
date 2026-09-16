@@ -15,7 +15,7 @@ SQL – достаточно прост для изучения и исполь�
 </p>
 
 <div align="center">
-<iframe title="YouTube video player" width="640" height="480" src="http://www.youtube.com/embed/ozIldJZQgqE" frameborder="0"></iframe>
+<iframe title="YouTube video player" width="640" height="480" src="https://www.youtube.com/embed/ozIldJZQgqE" frameborder="0"></iframe>
 </div>
 
 SQL инструкции можно сгруппировать в 5 групп:
